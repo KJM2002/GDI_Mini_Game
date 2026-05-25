@@ -1,0 +1,147 @@
+﻿  GameTimer.cpp
+  Main.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Core/Main.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+  NzWndBase.cpp
+  Utillity.cpp
+  Collider.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(32,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(31,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(30,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(29,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(39,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(38,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(37,18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.cpp(36,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameObject.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Engine/GameObject.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\renderHelp.h(8,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.cpp(162,27): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.cpp(162,17): warning C4244: '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.cpp(163,27): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.cpp(163,17): warning C4244: '초기화 중': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  renderHelp.cpp
+  MyFirstWndGame.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+  MyFirstWndGame_Collision.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Collision.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Collision.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Collision.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame_Collision.cpp(23,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyFirstWndGame_Enemy.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Enemy.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Enemy.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Enemy.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame_Enemy.cpp(147,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame_Enemy.cpp(148,10): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyFirstWndGame_Input.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Input.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Input.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Input.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+  MyFirstWndGame_Item.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Item.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Item.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Item.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+  MyFirstWndGame_Player.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Player.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Player.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Player.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+  MyFirstWndGame_Render.cpp
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(18,11): warning C4099: 'learning::Vector2f': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Render.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Core\Utillity.h(26,12):
+      'learning::Vector2f' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9): warning C4099: 'learning::Collider': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Render.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\Collider.h(7,9):
+      'learning::Collider' 선언을 참조하십시오.
+  
+C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Engine\GameObject.h(9,12): warning C4099: 'renderHelp::BitmapInfo': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  (소스 파일 'Game/MyFirstWndGame_Render.cpp'을(를) 컴파일하는 중)
+      C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\Code\Game\MyFirstWndGame.h(14,11):
+      'renderHelp::BitmapInfo' 선언을 참조하십시오.
+  
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\x64\Debug\GameFrameWork.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  p422.vcxproj -> C:\Users\RealJaemin\OneDrive\Documents\GitHub\GDI_Mini_Game\x64\Debug\GameFrameWork.exe
